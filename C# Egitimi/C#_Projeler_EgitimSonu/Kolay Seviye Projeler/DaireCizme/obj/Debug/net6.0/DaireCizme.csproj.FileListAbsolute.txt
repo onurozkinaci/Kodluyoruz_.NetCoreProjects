@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\DaireCizme\bin\Debug\net6.0\DaireCizme.exe
+C:\Users\Umur\Documents\DaireCizme\bin\Debug\net6.0\DaireCizme.deps.json
+C:\Users\Umur\Documents\DaireCizme\bin\Debug\net6.0\DaireCizme.runtimeconfig.json
+C:\Users\Umur\Documents\DaireCizme\bin\Debug\net6.0\DaireCizme.dll
+C:\Users\Umur\Documents\DaireCizme\bin\Debug\net6.0\DaireCizme.pdb
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.AssemblyInfo.cs
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.dll
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\refint\DaireCizme.dll
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.pdb
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\DaireCizme.genruntimeconfig.cache
+C:\Users\Umur\Documents\DaireCizme\obj\Debug\net6.0\ref\DaireCizme.dll

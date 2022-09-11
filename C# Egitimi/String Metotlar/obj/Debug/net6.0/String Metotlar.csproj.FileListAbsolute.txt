@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\String Metotlar\bin\Debug\net6.0\String Metotlar.exe
+C:\Users\Umur\Documents\String Metotlar\bin\Debug\net6.0\String Metotlar.deps.json
+C:\Users\Umur\Documents\String Metotlar\bin\Debug\net6.0\String Metotlar.runtimeconfig.json
+C:\Users\Umur\Documents\String Metotlar\bin\Debug\net6.0\String Metotlar.dll
+C:\Users\Umur\Documents\String Metotlar\bin\Debug\net6.0\String Metotlar.pdb
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.AssemblyInfo.cs
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.dll
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\refint\String Metotlar.dll
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.pdb
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\String Metotlar.genruntimeconfig.cache
+C:\Users\Umur\Documents\String Metotlar\obj\Debug\net6.0\ref\String Metotlar.dll

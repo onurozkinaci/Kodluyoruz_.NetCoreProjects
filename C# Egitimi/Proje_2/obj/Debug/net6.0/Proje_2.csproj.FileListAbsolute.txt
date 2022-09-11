@@ -1,0 +1,30 @@
+C:\Users\Umur\Documents\Proje_2\bin\Debug\net6.0\Proje_2.exe
+C:\Users\Umur\Documents\Proje_2\bin\Debug\net6.0\Proje_2.deps.json
+C:\Users\Umur\Documents\Proje_2\bin\Debug\net6.0\Proje_2.runtimeconfig.json
+C:\Users\Umur\Documents\Proje_2\bin\Debug\net6.0\Proje_2.dll
+C:\Users\Umur\Documents\Proje_2\bin\Debug\net6.0\Proje_2.pdb
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.AssemblyInfo.cs
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.dll
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\refint\Proje_2.dll
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.pdb
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\Proje_2.genruntimeconfig.cache
+C:\Users\Umur\Documents\Proje_2\obj\Debug\net6.0\ref\Proje_2.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\bin\Debug\net6.0\Proje_2.exe
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\bin\Debug\net6.0\Proje_2.deps.json
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\bin\Debug\net6.0\Proje_2.runtimeconfig.json
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\bin\Debug\net6.0\Proje_2.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\bin\Debug\net6.0\Proje_2.pdb
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.AssemblyInfo.cs
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\refint\Proje_2.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.pdb
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\Proje_2.genruntimeconfig.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Proje_2\obj\Debug\net6.0\ref\Proje_2.dll

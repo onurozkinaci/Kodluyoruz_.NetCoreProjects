@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\bin\Debug\net6.0\DateTimeveMathMetotlari.exe
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\bin\Debug\net6.0\DateTimeveMathMetotlari.deps.json
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\bin\Debug\net6.0\DateTimeveMathMetotlari.runtimeconfig.json
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\bin\Debug\net6.0\DateTimeveMathMetotlari.dll
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\bin\Debug\net6.0\DateTimeveMathMetotlari.pdb
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.AssemblyInfo.cs
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.dll
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\refint\DateTimeveMathMetotlari.dll
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.pdb
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\DateTimeveMathMetotlari.genruntimeconfig.cache
+C:\Users\Umur\Documents\DateTimeveMathMetotlari\obj\Debug\net6.0\ref\DateTimeveMathMetotlari.dll

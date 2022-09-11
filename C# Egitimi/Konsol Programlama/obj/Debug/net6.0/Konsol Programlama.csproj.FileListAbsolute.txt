@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\bin\Debug\net6.0\Konsol Programlama.exe
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\bin\Debug\net6.0\Konsol Programlama.deps.json
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\bin\Debug\net6.0\Konsol Programlama.runtimeconfig.json
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\bin\Debug\net6.0\Konsol Programlama.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\bin\Debug\net6.0\Konsol Programlama.pdb
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.AssemblyInfo.cs
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\refint\Konsol Programlama.dll
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.pdb
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\Konsol Programlama.genruntimeconfig.cache
+C:\Users\Umur\Documents\Patika-.Net Core Projects\Konsol Programlama\obj\Debug\net6.0\ref\Konsol Programlama.dll

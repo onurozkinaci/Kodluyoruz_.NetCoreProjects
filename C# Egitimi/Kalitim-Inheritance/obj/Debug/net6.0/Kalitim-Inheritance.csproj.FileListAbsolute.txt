@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Kalitim-Inheritance\bin\Debug\net6.0\Kalitim-Inheritance.exe
+C:\Users\Umur\Documents\Kalitim-Inheritance\bin\Debug\net6.0\Kalitim-Inheritance.deps.json
+C:\Users\Umur\Documents\Kalitim-Inheritance\bin\Debug\net6.0\Kalitim-Inheritance.runtimeconfig.json
+C:\Users\Umur\Documents\Kalitim-Inheritance\bin\Debug\net6.0\Kalitim-Inheritance.dll
+C:\Users\Umur\Documents\Kalitim-Inheritance\bin\Debug\net6.0\Kalitim-Inheritance.pdb
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.AssemblyInfo.cs
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.dll
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\refint\Kalitim-Inheritance.dll
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.pdb
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\Kalitim-Inheritance.genruntimeconfig.cache
+C:\Users\Umur\Documents\Kalitim-Inheritance\obj\Debug\net6.0\ref\Kalitim-Inheritance.dll

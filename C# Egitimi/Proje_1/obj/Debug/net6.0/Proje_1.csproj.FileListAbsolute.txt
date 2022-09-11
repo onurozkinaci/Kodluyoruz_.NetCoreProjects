@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Proje_1\bin\Debug\net6.0\Proje_1.exe
+C:\Users\Umur\Documents\Proje_1\bin\Debug\net6.0\Proje_1.deps.json
+C:\Users\Umur\Documents\Proje_1\bin\Debug\net6.0\Proje_1.runtimeconfig.json
+C:\Users\Umur\Documents\Proje_1\bin\Debug\net6.0\Proje_1.dll
+C:\Users\Umur\Documents\Proje_1\bin\Debug\net6.0\Proje_1.pdb
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.AssemblyInfo.cs
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.dll
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\refint\Proje_1.dll
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.pdb
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\Proje_1.genruntimeconfig.cache
+C:\Users\Umur\Documents\Proje_1\obj\Debug\net6.0\ref\Proje_1.dll

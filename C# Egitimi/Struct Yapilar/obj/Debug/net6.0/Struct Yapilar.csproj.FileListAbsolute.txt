@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Struct Yapilar\bin\Debug\net6.0\Struct Yapilar.exe
+C:\Users\Umur\Documents\Struct Yapilar\bin\Debug\net6.0\Struct Yapilar.deps.json
+C:\Users\Umur\Documents\Struct Yapilar\bin\Debug\net6.0\Struct Yapilar.runtimeconfig.json
+C:\Users\Umur\Documents\Struct Yapilar\bin\Debug\net6.0\Struct Yapilar.dll
+C:\Users\Umur\Documents\Struct Yapilar\bin\Debug\net6.0\Struct Yapilar.pdb
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.AssemblyInfo.cs
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.dll
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\refint\Struct Yapilar.dll
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.pdb
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\Struct Yapilar.genruntimeconfig.cache
+C:\Users\Umur\Documents\Struct Yapilar\obj\Debug\net6.0\ref\Struct Yapilar.dll

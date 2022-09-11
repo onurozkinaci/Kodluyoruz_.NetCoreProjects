@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Sessiz_Harf\bin\Debug\net6.0\Sessiz_Harf.exe
+C:\Users\Umur\Documents\Sessiz_Harf\bin\Debug\net6.0\Sessiz_Harf.deps.json
+C:\Users\Umur\Documents\Sessiz_Harf\bin\Debug\net6.0\Sessiz_Harf.runtimeconfig.json
+C:\Users\Umur\Documents\Sessiz_Harf\bin\Debug\net6.0\Sessiz_Harf.dll
+C:\Users\Umur\Documents\Sessiz_Harf\bin\Debug\net6.0\Sessiz_Harf.pdb
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.AssemblyInfo.cs
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.dll
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\refint\Sessiz_Harf.dll
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.pdb
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\Sessiz_Harf.genruntimeconfig.cache
+C:\Users\Umur\Documents\Sessiz_Harf\obj\Debug\net6.0\ref\Sessiz_Harf.dll

@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\bin\Debug\net6.0\Tersten_Karakter_Yazdirma.exe
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\bin\Debug\net6.0\Tersten_Karakter_Yazdirma.deps.json
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\bin\Debug\net6.0\Tersten_Karakter_Yazdirma.runtimeconfig.json
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\bin\Debug\net6.0\Tersten_Karakter_Yazdirma.dll
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\bin\Debug\net6.0\Tersten_Karakter_Yazdirma.pdb
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.AssemblyInfo.cs
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.dll
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\refint\Tersten_Karakter_Yazdirma.dll
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.pdb
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\Tersten_Karakter_Yazdirma.genruntimeconfig.cache
+C:\Users\Umur\Documents\Tersten_Karakter_Yazdirma\obj\Debug\net6.0\ref\Tersten_Karakter_Yazdirma.dll

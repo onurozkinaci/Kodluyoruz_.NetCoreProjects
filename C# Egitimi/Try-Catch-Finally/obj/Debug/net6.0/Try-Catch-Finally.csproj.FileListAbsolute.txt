@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Try-Catch-Finally\bin\Debug\net6.0\Try-Catch-Finally.exe
+C:\Users\Umur\Documents\Try-Catch-Finally\bin\Debug\net6.0\Try-Catch-Finally.deps.json
+C:\Users\Umur\Documents\Try-Catch-Finally\bin\Debug\net6.0\Try-Catch-Finally.runtimeconfig.json
+C:\Users\Umur\Documents\Try-Catch-Finally\bin\Debug\net6.0\Try-Catch-Finally.dll
+C:\Users\Umur\Documents\Try-Catch-Finally\bin\Debug\net6.0\Try-Catch-Finally.pdb
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.AssemblyInfo.cs
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.dll
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\refint\Try-Catch-Finally.dll
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.pdb
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\Try-Catch-Finally.genruntimeconfig.cache
+C:\Users\Umur\Documents\Try-Catch-Finally\obj\Debug\net6.0\ref\Try-Catch-Finally.dll

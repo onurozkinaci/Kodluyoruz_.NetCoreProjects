@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Static Siniflar-Classlar\bin\Debug\net6.0\Static Siniflar-Classlar.exe
+C:\Users\Umur\Documents\Static Siniflar-Classlar\bin\Debug\net6.0\Static Siniflar-Classlar.deps.json
+C:\Users\Umur\Documents\Static Siniflar-Classlar\bin\Debug\net6.0\Static Siniflar-Classlar.runtimeconfig.json
+C:\Users\Umur\Documents\Static Siniflar-Classlar\bin\Debug\net6.0\Static Siniflar-Classlar.dll
+C:\Users\Umur\Documents\Static Siniflar-Classlar\bin\Debug\net6.0\Static Siniflar-Classlar.pdb
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.AssemblyInfo.cs
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.dll
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\refint\Static Siniflar-Classlar.dll
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.pdb
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\Static Siniflar-Classlar.genruntimeconfig.cache
+C:\Users\Umur\Documents\Static Siniflar-Classlar\obj\Debug\net6.0\ref\Static Siniflar-Classlar.dll

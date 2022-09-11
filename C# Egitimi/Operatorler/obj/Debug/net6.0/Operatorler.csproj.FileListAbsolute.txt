@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Operatorler\bin\Debug\net6.0\Operatorler.exe
+C:\Users\Umur\Documents\Operatorler\bin\Debug\net6.0\Operatorler.deps.json
+C:\Users\Umur\Documents\Operatorler\bin\Debug\net6.0\Operatorler.runtimeconfig.json
+C:\Users\Umur\Documents\Operatorler\bin\Debug\net6.0\Operatorler.dll
+C:\Users\Umur\Documents\Operatorler\bin\Debug\net6.0\Operatorler.pdb
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.AssemblyInfo.cs
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.dll
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\refint\Operatorler.dll
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.pdb
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\Operatorler.genruntimeconfig.cache
+C:\Users\Umur\Documents\Operatorler\obj\Debug\net6.0\ref\Operatorler.dll

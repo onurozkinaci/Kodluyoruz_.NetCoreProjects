@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\bin\Debug\net6.0\Koleksiyonlar_GenericList.exe
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\bin\Debug\net6.0\Koleksiyonlar_GenericList.deps.json
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\bin\Debug\net6.0\Koleksiyonlar_GenericList.runtimeconfig.json
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\bin\Debug\net6.0\Koleksiyonlar_GenericList.dll
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\bin\Debug\net6.0\Koleksiyonlar_GenericList.pdb
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.AssemblyInfo.cs
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.dll
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\refint\Koleksiyonlar_GenericList.dll
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.pdb
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\Koleksiyonlar_GenericList.genruntimeconfig.cache
+C:\Users\Umur\Documents\Koleksiyonlar_GenericList\obj\Debug\net6.0\ref\Koleksiyonlar_GenericList.dll

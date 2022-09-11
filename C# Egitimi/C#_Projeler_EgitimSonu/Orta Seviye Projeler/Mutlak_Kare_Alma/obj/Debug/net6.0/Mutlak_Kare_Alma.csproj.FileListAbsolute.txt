@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\bin\Debug\net6.0\Mutlak_Kare_Alma.exe
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\bin\Debug\net6.0\Mutlak_Kare_Alma.deps.json
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\bin\Debug\net6.0\Mutlak_Kare_Alma.runtimeconfig.json
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\bin\Debug\net6.0\Mutlak_Kare_Alma.dll
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\bin\Debug\net6.0\Mutlak_Kare_Alma.pdb
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.AssemblyInfo.cs
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.dll
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\refint\Mutlak_Kare_Alma.dll
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.pdb
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\Mutlak_Kare_Alma.genruntimeconfig.cache
+C:\Users\Umur\Documents\Mutlak_Kare_Alma\obj\Debug\net6.0\ref\Mutlak_Kare_Alma.dll

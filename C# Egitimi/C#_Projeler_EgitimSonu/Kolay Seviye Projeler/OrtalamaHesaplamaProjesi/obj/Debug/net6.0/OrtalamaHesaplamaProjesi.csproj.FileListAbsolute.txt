@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\bin\Debug\net6.0\OrtalamaHesaplamaProjesi.exe
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\bin\Debug\net6.0\OrtalamaHesaplamaProjesi.deps.json
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\bin\Debug\net6.0\OrtalamaHesaplamaProjesi.runtimeconfig.json
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\bin\Debug\net6.0\OrtalamaHesaplamaProjesi.dll
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\bin\Debug\net6.0\OrtalamaHesaplamaProjesi.pdb
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.AssemblyInfo.cs
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.dll
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\refint\OrtalamaHesaplamaProjesi.dll
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.pdb
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\OrtalamaHesaplamaProjesi.genruntimeconfig.cache
+C:\Users\Umur\Documents\OrtalamaHesaplamaProjesi\obj\Debug\net6.0\ref\OrtalamaHesaplamaProjesi.dll

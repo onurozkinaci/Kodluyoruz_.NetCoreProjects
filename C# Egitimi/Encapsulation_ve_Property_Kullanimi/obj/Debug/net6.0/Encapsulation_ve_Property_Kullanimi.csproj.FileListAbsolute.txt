@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\bin\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.exe
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\bin\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.deps.json
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\bin\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.runtimeconfig.json
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\bin\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.dll
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\bin\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.pdb
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.AssemblyInfo.cs
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.dll
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\refint\Encapsulation_ve_Property_Kullanimi.dll
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.pdb
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\Encapsulation_ve_Property_Kullanimi.genruntimeconfig.cache
+C:\Users\Umur\Documents\Encapsulation_ve_Property_Kullanimi\obj\Debug\net6.0\ref\Encapsulation_ve_Property_Kullanimi.dll

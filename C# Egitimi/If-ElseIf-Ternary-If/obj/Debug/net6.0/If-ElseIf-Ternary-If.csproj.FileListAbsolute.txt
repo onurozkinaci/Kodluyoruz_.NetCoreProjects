@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\bin\Debug\net6.0\If-ElseIf-Ternary-If.exe
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\bin\Debug\net6.0\If-ElseIf-Ternary-If.deps.json
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\bin\Debug\net6.0\If-ElseIf-Ternary-If.runtimeconfig.json
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\bin\Debug\net6.0\If-ElseIf-Ternary-If.dll
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\bin\Debug\net6.0\If-ElseIf-Ternary-If.pdb
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.AssemblyInfo.cs
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.dll
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\refint\If-ElseIf-Ternary-If.dll
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.pdb
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\If-ElseIf-Ternary-If.genruntimeconfig.cache
+C:\Users\Umur\Documents\If-ElseIf-Ternary-If\obj\Debug\net6.0\ref\If-ElseIf-Ternary-If.dll

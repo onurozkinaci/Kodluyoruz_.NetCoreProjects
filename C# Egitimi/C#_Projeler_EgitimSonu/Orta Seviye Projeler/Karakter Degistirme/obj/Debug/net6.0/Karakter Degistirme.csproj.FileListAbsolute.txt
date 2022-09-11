@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Karakter Degistirme\bin\Debug\net6.0\Karakter Degistirme.exe
+C:\Users\Umur\Documents\Karakter Degistirme\bin\Debug\net6.0\Karakter Degistirme.deps.json
+C:\Users\Umur\Documents\Karakter Degistirme\bin\Debug\net6.0\Karakter Degistirme.runtimeconfig.json
+C:\Users\Umur\Documents\Karakter Degistirme\bin\Debug\net6.0\Karakter Degistirme.dll
+C:\Users\Umur\Documents\Karakter Degistirme\bin\Debug\net6.0\Karakter Degistirme.pdb
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.AssemblyInfo.cs
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.dll
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\refint\Karakter Degistirme.dll
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.pdb
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\Karakter Degistirme.genruntimeconfig.cache
+C:\Users\Umur\Documents\Karakter Degistirme\obj\Debug\net6.0\ref\Karakter Degistirme.dll
