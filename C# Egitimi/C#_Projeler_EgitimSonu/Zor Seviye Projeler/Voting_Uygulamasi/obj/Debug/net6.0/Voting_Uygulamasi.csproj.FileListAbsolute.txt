@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Voting_Uygulamasi\bin\Debug\net6.0\Voting_Uygulamasi.exe
+C:\Users\Umur\Documents\Voting_Uygulamasi\bin\Debug\net6.0\Voting_Uygulamasi.deps.json
+C:\Users\Umur\Documents\Voting_Uygulamasi\bin\Debug\net6.0\Voting_Uygulamasi.runtimeconfig.json
+C:\Users\Umur\Documents\Voting_Uygulamasi\bin\Debug\net6.0\Voting_Uygulamasi.dll
+C:\Users\Umur\Documents\Voting_Uygulamasi\bin\Debug\net6.0\Voting_Uygulamasi.pdb
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.AssemblyInfo.cs
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.dll
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\refint\Voting_Uygulamasi.dll
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.pdb
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\Voting_Uygulamasi.genruntimeconfig.cache
+C:\Users\Umur\Documents\Voting_Uygulamasi\obj\Debug\net6.0\ref\Voting_Uygulamasi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Voting_Uygulamasi/1.0.0": {
+        "runtime": {
+          "Voting_Uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Voting_Uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
