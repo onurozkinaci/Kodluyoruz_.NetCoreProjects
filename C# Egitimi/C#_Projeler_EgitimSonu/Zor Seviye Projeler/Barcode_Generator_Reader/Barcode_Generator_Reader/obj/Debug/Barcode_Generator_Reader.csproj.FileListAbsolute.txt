@@ -1,0 +1,15 @@
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\Barcode_Generator_Reader.exe.config
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\Barcode_Generator_Reader.exe
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\Barcode_Generator_Reader.pdb
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.csproj.AssemblyReference.cache
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.Form1.resources
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.Properties.Resources.resources
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.csproj.GenerateResource.cache
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.csproj.CopyComplete
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.exe
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\obj\Debug\Barcode_Generator_Reader.pdb
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\zxing.dll
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\zxing.presentation.dll
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\zxing.xml
+C:\Users\Umur\Documents\Barcode_Generator_Reader\Barcode_Generator_Reader\bin\Debug\zxing.presentation.xml

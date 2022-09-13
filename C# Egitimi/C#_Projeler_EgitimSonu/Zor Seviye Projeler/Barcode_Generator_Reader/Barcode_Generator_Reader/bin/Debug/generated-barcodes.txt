@@ -1,0 +1,4 @@
+Olusturulan ve kaydedilen barkod: barcode-deneme1
+Olusturulan ve kaydedilen barkod: barcode-deneme2
+Olusturulan ve kaydedilen barkod: barcode-deneme3
+Olusturulan ve kaydedilen barkod: barcode-deneme4
