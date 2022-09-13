@@ -51,7 +51,3 @@ namespace Barcode_Generator_Reader
         }
     }
 }
-
-/*StreamWriter sw = new StreamWriter(fileName,true);
-sw.WriteLine(brCode.Draw(barcode, 60));
-sw.Close();*/
